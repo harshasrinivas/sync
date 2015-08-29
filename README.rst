@@ -1,15 +1,10 @@
 sync - v 0.1.0
 ================
 
+Sync the contents of similar files in 2 directories based on edit history
+
 Installation
 ============
-
-Using ``pip``
--------------
-
-.. code:: sh
-
-   $ pip install sync
 
 Latest build from the Source
 ----------------------------

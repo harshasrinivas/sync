@@ -1,10 +1,8 @@
 #`sync` - v 0.1.0
 
+Sync the contents of similar files in 2 directories based on edit history
+
 #Installation
-
-##Using `pip`
-
-`pip install sync`
 
 ##Get the latest build from the Source
 
