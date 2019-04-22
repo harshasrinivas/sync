@@ -1,31 +1,27 @@
-#`sync` - v 0.1.0
+# `sync` - v 0.1.0
 
 Sync the contents of similar files in 2 directories based on edit history
 
-#Installation
+# Installation
 
-##Get the latest build from the Source
+## Get the latest build from the Source
 
 * Clone the repo `git clone https://github.com/harshasrinivas/sync.git`
 * Run `python setup.py install`
 
-##Dependencies
+## Dependencies
 
 * future `pip install future`
 
-#Usage
+# Usage
 
 * Sync directory `dir1` with `dir2` : `sync dir1 dir2`
 
 
-#Contribute
+# Contribute
 
 If you want to add features, improve them, or report issues, feel free to send a pull request.
 
-#Contributors
-
-* [harshasrinivas](https://github.com/harshasrinivas)
-
-#License
+# License
 
 MIT © [Harsha Srinivas](http://harshasrinivas.github.io)
